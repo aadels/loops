@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+	<title>Loops</title>
 	<style>
     	// We'll use this class to style the boxes..Red, 50x50px
     	.box {
@@ -9,8 +10,8 @@
         	float:left;
         	margin:4px;
         	background-color:red;
-    }       
-</style>
+    	}       
+	</style>
 </head>
 	<body>
 		<?=$boxes?>
