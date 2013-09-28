@@ -6,7 +6,7 @@
     <title>Loops</title>
 	<style>
     	/* We'll use this class to style the boxes..Red, 50x50px*/
-    	.box {
+    	box {
         	width:50px;
         	height:50px;
         	float:left;
