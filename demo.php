@@ -4,6 +4,7 @@
 <head>
 	<meta charset="utf-8">
     <title>Loops</title>
+    <?php require_once('boxes_logic.php'); ?>
 	<style>
     	/* We'll use this class to style the boxes..Red, 50x50px */
     	.box {
@@ -14,7 +15,7 @@
         	background-color:red;
     	}       
 	</style>
-    <?php require_once('boxes_logic.php'); ?>
+
 </head>
 <body>
 	<?=$boxes?>
