@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>
 <head>
 	<title>Loops</title>
@@ -13,7 +13,7 @@
     	}       
 	</style>
 </head>
-	<body>
-		<?=$boxes?>
-	</body>
+<body>
+	<?=$boxes?>
+</body>
 </html>
