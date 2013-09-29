@@ -8,7 +8,8 @@
 
 </head>
 <body>
-	hello
-	<?$boxes?>
+	<?php
+	echo $boxes;
+	?>
 </body>
 </html>
