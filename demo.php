@@ -18,6 +18,8 @@
 
 </head>
 <body>
-	<?=$boxes?>
+	<?
+    echo  $boxes rand (0, 9);
+    ?>
 </body>
 </html>
