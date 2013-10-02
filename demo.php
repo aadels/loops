@@ -17,6 +17,6 @@
 
 </head>
 <body>
-	<?=$boxes;?>
+	<?=$boxes?>
 </body>
 </html>
